@@ -1,0 +1,20 @@
+{
+	"name": "miyojs-filter-talking",
+	"version": "0.0.1",
+	"description": "talking - realtime talking flag",
+	"main": "talking.js",
+	"scripts": {
+		"test": "mocha"
+	},
+	"dependencies": {
+	},
+	"author": {
+		"name": "narazaka",
+		"url": "http://narazaka.net/"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Narazaka/miyojs-filter-talking.git"
+	}
+}
