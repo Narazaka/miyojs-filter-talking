@@ -1,6 +1,6 @@
 {
 	"name": "miyojs-filter-talking",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "talking - realtime talking flag",
 	"main": "talking.js",
 	"scripts": {

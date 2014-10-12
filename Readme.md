@@ -37,7 +37,7 @@ argumentをvalueとして扱い、必要なイベントを付加した後のvalu
 
 このフィルタは以下に依存します。
 
-- [miyojs-filter-variables]()
+- [miyojs-filter-variables](https://github.com/Narazaka/miyojs-filter-variables.git)
 
 使用方法
 ----------------------------------------
