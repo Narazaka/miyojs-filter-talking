@@ -1,12 +1,22 @@
 {
 	"name": "miyojs-filter-talking",
-	"version": "0.0.2",
+	"version": "1.0.0",
 	"description": "talking - realtime talking flag",
+	"keywords": ["miyojs", "miyojs-filter"],
 	"main": "talking.js",
 	"scripts": {
 		"test": "mocha"
 	},
 	"dependencies": {
+	},
+	"devDependencies": {
+		"coffee-script": ">= 1.8.0",
+		"mocha": ">= 1.20.1",
+		"chai": ">= 1.9.2",
+		"sinon": ">= 1.10.3",
+		"istanbul": ">= 0.3.2",
+		"miyojs": ">= 1.0.3",
+		"miyojs-filter-variables": ">= 1.0.0"
 	},
 	"author": {
 		"name": "narazaka",
